@@ -29,6 +29,8 @@
   </a>
 </h3>
 
+<br>
+
 ## ✨ 프로젝트 소개 (About The Project)
 > [주의사항] <br>
 > **LibraMind-API**를 활용하는 **FE**는 해당 API를 활용하여 직접 구현해야 합니다.
