@@ -21,14 +21,6 @@
   <span style="color:#56B16F">맥락 기반 도서 검색 · 감정 분석 추천 · 스마트 도서관 관리</span>
 </p>
 
-<h3 align="center">
-  <a href="https://no-plan.cloud/">
-    📚 LibraMind Library 📚
-    <br>
-    <small>🔗Live Demo Link🔗</small>
-  </a>
-</h3>
-
 <br>
 
 ## ✨ 프로젝트 소개 (About The Project)
